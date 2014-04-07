@@ -27,7 +27,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "groc": "~0.6.3",
+    "groc": "git://github.com/Plou/groc.git",
     "lodash": "~2.4.0"
   },
   "devDependencies": {
